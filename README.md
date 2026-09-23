@@ -51,3 +51,7 @@ Os commits devem ser pequenos e descritivos. Deve existir pelo menos um Pull Req
 
 ## Homologação
 O código gerado por IA deve ser revisado pelo estudante, validado contra `CONTEXT_RULES.md` e `specs/task_analyzer_spec.md` e aprovado antes de ser integrado à `main`.
+
+## Desenvolvimento
+
+Implementação realizada na branch desenvolvimento para validação do Test Harness e versionamento do projeto.

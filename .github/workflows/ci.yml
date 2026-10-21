@@ -3,9 +3,9 @@ name: TaskAnalyzer CI
 
 on:
   push:
-    branches: [main, desenvolvimento]
+    branches: [main, develop]
   pull_request:
-    branches: [main, desenvolvimento]
+    branches: [main, develop]
 
 jobs:
   test:

@@ -1,0 +1,6 @@
+
+services:
+  task-analyzer:
+    build: .
+    image: task-analyzer-tests
+    command: python -m pytest -q
